@@ -1,4 +1,4 @@
-##**Predictive Analytics and Recommendation Systems in Banking**
+####Predictive Analytics and Recommendation Systems in Banking
 
 ## Overview
 This project leverages advanced data science techniques to address three critical challenges faced by banks: predicting loan defaults, segmenting customers based on transaction behavior, and recommending suitable banking products. The objective is to enhance customer experience, reduce financial risks, and optimize product offerings.
